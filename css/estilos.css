@@ -1,13 +1,9 @@
 body {
     color: rgb(4, 9, 37);
     text-align: center;
-<<<<<<< HEAD
-    font-family: 'Courier New', Courier, monospace;
-=======
     font-family: Arial, Helvetica, sans-serif;
 }
 
 #cabecera {
     color: dodgerblue;
->>>>>>> cabecera
 }
